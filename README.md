@@ -1,6 +1,7 @@
 <!-- Introduction  -->
-## <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  &gt; Hello World, I am <i>Achraf!</i></samp> 
-<samp><b>A passionate self-taught Front-End Developer<b></samp>
+# <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  &gt; Hello World, I am <i>Achraf!</i></samp> 
+### <samp><b>Design-driven front-end developer › Ex-Civil Engineer › Always building<b></samp>
+
 <!-- Stack -->
 ## <samp>⚙️ &gt; Technologies & Tools</samp>
 <div>
@@ -53,4 +54,4 @@
 <!-- GitHub Stats -->
 
 ## <samp>📥 &gt; Reach Me At</samp>
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu) [![Bluesky](https://img.shields.io/badge/Bluesky-%2305122A.svg?logo=bluesky&logoColor=white)](https://bsky.phrechu.combsky)
