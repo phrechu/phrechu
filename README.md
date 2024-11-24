@@ -1,5 +1,6 @@
 <!-- Introduction  -->
-## <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  &gt; Hello World, I am <i>Achraf!</i></samp>  
+## <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  &gt; Hello World, I am <i>Achraf!</i></samp> 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu)
 <samp><b>A passionate self-taught Front-End Developer<b></samp>
 <!-- Stack -->
 ## <samp>⚙️ &gt; Technologies & Tools</samp>
@@ -34,7 +35,7 @@
       <img alt="npm" src="https://img.shields.io/badge/npm-05122A?logo=npm&style=flat">
       <img alt="pnpm" src="https://img.shields.io/badge/pnpm-05122A?logo=pnpm">
       <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A.svg?logo=vsc&logoColor=blue">
-      <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-05122A?logo=Obsidian">
+<!--       <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-05122A?logo=Obsidian"> -->
     	<br>
 			<br>
     	<kbd>Design tools</kbd>
@@ -51,6 +52,4 @@
 <!-- Learning -->
 <!-- ## <samp>💻 &gt; What I'm Learning</samp> -->
 <!-- GitHub Stats -->
-
-## <samp>📥 &gt; Reach Me At</samp>
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu)
+<!-- ## <samp>📥 &gt; Reach Me At</samp> -->
