@@ -1,6 +1,5 @@
 <!-- Introduction  -->
 ## <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  &gt; Hello World, I am <i>Achraf!</i></samp> 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu)
 <samp><b>A passionate self-taught Front-End Developer<b></samp>
 <!-- Stack -->
 ## <samp>⚙️ &gt; Technologies & Tools</samp>
@@ -52,4 +51,6 @@
 <!-- Learning -->
 <!-- ## <samp>💻 &gt; What I'm Learning</samp> -->
 <!-- GitHub Stats -->
-<!-- ## <samp>📥 &gt; Reach Me At</samp> -->
+
+## <samp>📥 &gt; Reach Me At</samp>
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu)
