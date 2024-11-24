@@ -54,4 +54,6 @@
 <!-- GitHub Stats -->
 
 ## <samp>📥 &gt; Reach Me At</samp>
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aem-bouhamid) [![𝕩](https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white)](https://www.x.com/phrechu) [![Bluesky](https://img.shields.io/badge/Bluesky-%2305122A.svg?logo=bluesky&logoColor=white)](https://bsky.phrechu.com)
+<a href="https://www.linkedin.com/in/aem-bouhamid" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.x.com/phrechu" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white" alt="𝕩"></a> 
+<a href="https://bsky.phrechu.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-%2305122A.svg?logo=bluesky&logoColor=white" alt="Bluesky"></a>
