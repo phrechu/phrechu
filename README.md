@@ -58,6 +58,6 @@
 
 ## <samp>📥 &gt; Reach Me At</samp>
 
-<a href="https://www.linkedin.com/in/aem-bouhamid" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/phrechu" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%2305122A.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.x.com/phrechu" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2305122A.svg?logo=X&logoColor=white" alt="𝕩"></a>
 <a href="https://bsky.phrechu.com" target="_blank"><img src="https://img.shields.io/badge/Bluesky-%2305122A.svg?logo=bluesky&logoColor=white" alt="Bluesky"></a>
